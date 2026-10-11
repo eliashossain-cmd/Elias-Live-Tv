@@ -6,6 +6,21 @@
 ![Media3](https://img.shields.io/badge/AndroidX%20Media3-ExoPlayer%201.5.1-orange?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
 
+---
+
+## 📱 Direct Android APK Download (মোবাইলে সরাসরি ডাউনলোড লিঙ্ক)
+
+[![Download APK](https://img.shields.io/badge/Download_APK-Elias%20Live%20TV%20(v1.0.0)-00E5FF?style=for-the-badge&logo=android&logoColor=black)](Elias-Live-TV.apk?raw=true)
+
+👉 **[📥 এখানে ক্লিক করে সরাসরি Elias-Live-TV.apk ডাউনলোড করুন (Direct Download Link)](Elias-Live-TV.apk?raw=true)**
+
+> **মোবাইল ব্যবহারকারীদের জন্য নির্দেশনা:**
+> 1. উপরের লিংকে চাপ দিলেই **`Elias-Live-TV.apk`** (মাত্র ২১ MB) ফাইলটি আপনার মোবাইলে ডাউনলোড হয়ে যাবে।
+> 2. মোবাইলের Notification bar অথবা `Downloads` ফোল্ডার থেকে ফাইলটিতে ট্যাপ করে **Install** করুন।
+> 3. প্রথমবারের জন্য *"Allow installation from unknown sources"* পারমিশন চাইলে চালু করে দিন।
+
+---
+
 **Elias Live TV** is a high-performance, modern native Android application for importing, organizing, and streaming M3U/M3U8 IPTV playlists. Built using Jetpack Compose, Material Design 3, Room Database, and AndroidX Media3 ExoPlayer, it delivers a smooth streaming experience with low latency, zero telemetry, and complete privacy.
 
 > **Developer Credit:**  
