@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- TV Antenna Left -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,34 L43,24" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M43,24 A2,2 0 1,0 43,20 A2,2 0 1,0 43,24 Z" />
+
+    <!-- TV Antenna Right -->
+    <path
+        android:strokeColor="#7C4DFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,34 L65,24" />
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M65,24 A2,2 0 1,0 65,20 A2,2 0 1,0 65,24 Z" />
+
+    <!-- TV Outer Bezel / Body -->
+    <path
+        android:pathData="M33,34 h42 c3.8,0 7,3.2 7,7 v24 c0,3.8 -3.2,7 -7,7 h-42 c-3.8,0 -7,-3.2 -7,-7 v-24 c0,-3.8 3.2,-7 7,-7 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="26"
+                android:startY="34"
+                android:endX="82"
+                android:endY="72"
+                android:type="linear">
+                <item android:color="#FFFFFF" android:offset="0.0" />
+                <item android:color="#E0E6ED" android:offset="0.4" />
+                <item android:color="#B0BEC5" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- TV Screen Inner Display -->
+    <path
+        android:pathData="M34.5,37 h39 c2.5,0 4.5,2 4.5,4.5 v19 c0,2.5 -2,4.5 -4.5,4.5 h-39 c-2.5,0 -4.5,-2 -4.5,-4.5 v-19 c0,-2.5 2,-4.5 4.5,-4.5 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="30"
+                android:startY="37"
+                android:endX="78"
+                android:endY="65"
+                android:type="linear">
+                <item android:color="#0F172A" android:offset="0.0" />
+                <item android:color="#1E293B" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- TV Play Symbol / Stream Arrow -->
+    <path
+        android:pathData="M48,44 L64,52 L48,60 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="48"
+                android:startY="44"
+                android:endX="64"
+                android:endY="60"
+                android:type="linear">
+                <item android:color="#00E5FF" android:offset="0.0" />
+                <item android:color="#7C4DFF" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- TV Live Red Dot Indicator (top right of screen) -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M72,42 A1.8,1.8 0 1,0 72,38.4 A1.8,1.8 0 1,0 72,42 Z" />
+
+    <!-- TV Stand Neck -->
+    <path
+        android:fillColor="#90A4AE"
+        android:pathData="M51.5,72 h5 v3 h-5 z" />
+
+    <!-- TV Stand Base -->
+    <path
+        android:pathData="M44,75 h20 c1.5,0 2.5,0.8 2.5,1.5 c0,0.7 -1,1.5 -2.5,1.5 h-20 c-1.5,0 -2.5,-0.8 -2.5,-1.5 c0,-0.7 1,-1.5 2.5,-1.5 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="41"
+                android:startY="75"
+                android:endX="67"
+                android:endY="78"
+                android:type="linear">
+                <item android:color="#CFD8DC" android:offset="0.0" />
+                <item android:color="#90A4AE" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+</vector>

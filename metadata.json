@@ -1,0 +1,6 @@
+{
+  "name": "Elias Live TV",
+  "description": "Modern M3U/M3U8 IPTV and live TV playlist player with channel browsing, favorites, and Media3 video playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
